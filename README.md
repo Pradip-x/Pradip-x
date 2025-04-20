@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently learning **Python and Data Structures & Algorithms**
 - 🌱 Working on LeetCode + beginner Web Dev
-- 🎯 Goal: **Crack FAANG** and earn **20+ LPA**
+- 🎯 Goal: **Crack FAANG** 
 - 💡 Passionate about solving problems and building real-world projects
 - 📫 Reach me at: **reachpradip24x7@gmail.com**
 
