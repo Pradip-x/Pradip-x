@@ -53,8 +53,8 @@
 ### 🌐 Let's Connect
 
 - 📧 Email: **reachpradip24x7@gmail.com**
-- 🔗 LinkedIn: *(Coming Soon)*
-- 🧠 LeetCode: *(Coming Soon)*
+- 🔗 LinkedIn: **https://www.linkedin.com/in/pradip-mandal-4a136a361/**
+- 🧠 LeetCode: **https://leetcode.com/u/pradip-x/**
 
 ---
 
