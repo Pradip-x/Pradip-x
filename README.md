@@ -13,9 +13,8 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently learning **Python and Data Structures & Algorithms**
+- 🔭 I’m currently learning **C++ and Data Structures & Algorithms**
 - 🌱 Working on LeetCode + beginner Web Dev
-- 🎯 Goal: **Crack FAANG** 
 - 💡 Passionate about solving problems and building real-world projects
 - 📫 Reach me at: **reachpradip24x7@gmail.com**
 
@@ -24,7 +23,6 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/DSA-%23000000?style=for-the-badge&logo=leetcode&logoColor=yellow" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
