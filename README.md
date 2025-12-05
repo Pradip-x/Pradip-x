@@ -43,7 +43,7 @@
 
 ### 💬 Quote of the Day
 
-> “It always seems impossible until it's done.” – Nelson Mandela
+> “Veni, vedi, vici"
 
 ---
 
