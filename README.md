@@ -1,59 +1,59 @@
-<h1 align="center">Hi 👋, I'm Pradip</h1>
+<h1 align="center">Hi, I'm Pradip 👋</h1>
 <h3 align="center">Aspiring Software Engineer | C++ Developer | DSA Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/Pradip-x">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;CPP+%7C+DSA+%7C+Web+Dev+Learner;Let's+crack+It+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</p>
-
-
----
-
-### 👨‍💻 About Me
-
-- 🔭 I’m currently learning **C++ and Data Structures & Algorithms**
-- 🌱 Working on LeetCode + beginner Web Dev
-- 💡 Passionate about solving problems and building real-world projects
-- 📫 Reach me at: **reachpradip24x7@gmail.com**
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-%23000000?style=for-the-badge&logo=leetcode&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
- 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=900&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;C%2B%2B+Developer+%7C+DSA+Learner;Building+the+Future+One+Line+at+a+Time" alt="Typing Animation" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 About Me
+
+- Learning **C++**, **DSA**, and beginner **Web Dev**
+- Practicing daily on **LeetCode**
+- Enjoy building clean and efficient solutions
+- Email: **reachpradip24x7@gmail.com**
+
+---
+
+## 🧩 Tech Stack
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pradip-x&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pradip-x&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,git,github" />
 </p>
 
 ---
 
-### 💬 Quote of the Day
+## 📈 GitHub Analytics
 
-> “Veni, vidi, vici"
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pradip-x&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradip-x&theme=tokyonight&hide_border=true&border_radius=20" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pradip-x&theme=react-dark&hide_border=true&area=true" />
+</div>
 
 ---
 
-### 🌐 Let's Connect
+## 🌟 Featured Quote
 
-- 📧 Email: **reachpradip24x7@gmail.com**
-- 🔗 LinkedIn: **https://www.linkedin.com/in/pradip-mandal-4a136a361/**
-- 🧠 LeetCode: **https://leetcode.com/u/pradip-x/**
+> _"Veni, vidi, vici."_  
+> _I came, I saw, I conquered._
 
 ---
 
-_Thanks for dropping by! Let’s grow together and dominate the tech world. 🚀_
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:reachpradip24x7@gmail.com"><img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pradip-mandal-4a136a361/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://leetcode.com/u/pradip-x/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
