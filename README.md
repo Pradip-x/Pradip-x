@@ -44,7 +44,7 @@
 
 ### 💬 Quote of the Day
 
-> “Veni, vedi, vici"
+> “Veni, vidi, vici"
 
 ---
 
