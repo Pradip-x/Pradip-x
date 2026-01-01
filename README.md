@@ -1,6 +1,6 @@
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=HI+I'M+PRADIP+%F0%9F%91%8B;BACKEND+DEVELOPER+IN+PROGRESS;PYTHON+%7C+POSTGRESQL;CRINGE+NOW+LEGEND+LATER;CONSISTENCY+OVER+EVERYTHING" 
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=HI+I'M+PRADIP+%F0%9F%91%8B;BACKEND+DEVELOPER+IN+PROGRESS;PYTHON+%7C+POSTGRESQL;CONSISTENCY+OVER+EVERYTHING" 
     alt="Typing intro"
   />
 </h1>
