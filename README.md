@@ -30,7 +30,7 @@
 </p>
 
 <ul>
-  <li>🐍 Learning <b>Python</b> for backend logic</li>
+  <li>🐍 Learning <b>GoLang</b> for backend logic</li>
   <li>🗄️ Working with <b>PostgreSQL</b> databases</li>
   <li>🧠 Training for long-term engineering growth</li>
   <li>😄 I think I have nice sense of humor </li>
